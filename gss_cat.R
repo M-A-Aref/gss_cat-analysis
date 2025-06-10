@@ -3,7 +3,6 @@ library(gganimate)
 # Factors "Categorical Variables"
 
 library(forcats)
-?forcats
 data()
 view(gss_cat)
 glimpse(gss_cat)
