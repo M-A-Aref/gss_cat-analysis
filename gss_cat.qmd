@@ -1,7 +1,7 @@
 ---
 title: "Dealing with categorical variables"
 author: "Mohamed Ahmed Aref"
-format: html
+format: beamer
 editor: visual
 ---
 
